@@ -1,10 +1,10 @@
 # 𝐃𝐑𝐄𝐗_𝐀𝐈
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝙅𝙐𝙄𝘾𝙀_𝙒𝙍𝙇𝘿;WHATSAPP+BOT;CREATED+BY+DARK_INTENT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝙅𝙐𝙄𝘾𝙀_𝙒𝙍𝙇𝘿;WHATSAPP+BOT;CREATED+BY+MaXwrld_Memes" alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
-<img src="https://telegra.ph/file/7a47ec78083fc40e5208d.jpg" width="650" height="500"/>
+<img src="https://telegra.ph/file/2ee43c1b3725dcc17ccfc.jpg" width="650" height="500"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=JUICE_WRLD+WHATSAPP+BOT" alt="">
@@ -38,7 +38,7 @@ You will need an openai API key for AI features to work.
 
 ## Deploy to Heroku ↓
 
-<a href="https://github.com/maxwrldmemes/deploy-JUICE_WRLD/fork" target="blank"><img align="center" src="https://telegra.ph/file/f64c1414969e1beda8f48.jpg" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://github.com/maxwrldmemes/deploy-JUICE_WRLD/fork" target="blank"><img align="center" src="https://telegra.ph/file/2ee43c1b3725dcc17ccfc.jpg" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
 <a href="https://dashboard.heroku.com/new-app?template=https://github.com/{GitHubUsername}/JUICE_WRLD"
