@@ -1,6 +1,6 @@
 {
-  "name": "drex-ai",
-  "description": "𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼ dark lord",
+  "name": "𝐉𝐔𝐈𝐂𝐄_𝐖𝐑𝐋𝐃",
+  "description": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐎𝐔𝐑 𝐖𝐑𝐋𝐃 999",
   "keywords": [
     "bot",
     "whatsapp",
@@ -14,9 +14,9 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/drexmose/drex-ai#readme",
-  "repository": "https://github.com/drexmose/drex-ai.git",
-  "logo": "https://telegra.ph/file/7a47ec78083fc40e5208d.jpg",
+  "website": "https://github.com/maxwrldmemes/JUICE_WTLD#readme",
+  "repository": "https://github.com/maxwrldmemes/JUICE_WRLD.git",
+  "logo": "https://telegra.ph/file/2ee43c1b3725dcc17ccfc.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
@@ -25,7 +25,7 @@
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254102074064, 254729553638 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254742516017, 12562560078",
       "required": true
     },
     "NOT_OWNER_MSG": {
